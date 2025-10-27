@@ -1,4 +1,4 @@
-# Modelo de Co-Digestão Anaeróbia (ACoDGSML)
+# Modelo de Co-Digestão Anaeróbia 
 
 Implementação simples em Python de um modelo de produção de biogás para digestão anaeróbia de **Resíduos Alimentares (RA)** e **Esterco Bovino (EB)**.
 
@@ -212,7 +212,7 @@ Excelente para alunos de:
 ## 📁 Estrutura de Arquivos
 
 ```
-ACoDGSML/
+/
 ├── anaerobic_codigestion_model.py   ← Todo o código aqui!
 ├── requirements.txt                  ← Dependências
 ├── README.md                         ← Este arquivo
