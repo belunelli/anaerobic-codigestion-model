@@ -2,7 +2,7 @@
 
 Implementação simples em Python de um modelo de produção de biogás para digestão anaeróbia de **Resíduos Alimentares (RA)** e **Esterco Bovino (EB)**.
 
-**Perfeito para aprender!** Este projeto demonstra como implementar um modelo matemático em Python de forma simples e fácil de entender.
+Este projeto demonstra como implementar um modelo matemático em Python de forma simples e fácil de entender.
 
 ---
 
