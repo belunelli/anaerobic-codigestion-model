@@ -131,7 +131,7 @@ Use mensagens claras e descritivas:
 ## 📚 Referências
 
 - **Paper Original:** Mohammadianroshanfekr et al. (2024) - [DOI:10.1016/j.rineng.2024.103477](https://doi.org/10.1016/j.rineng.2024.103477)
-- **Documentação:** Veja [CLAUDE.md](CLAUDE.md) para detalhes técnicos
+- **Documentação:** Veja [README.md] para detalhes técnicos
 - **Estilo:** Python PEP 8 (com foco em legibilidade)
 
 ## ❓ Dúvidas?
